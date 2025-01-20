@@ -1,6 +1,9 @@
+# The Project demo Video
+https://drive.google.com/file/d/1YXGswxua-r3DE4IC1BSEQMN7qg7IjgJq/view?usp=sharing
+
 # Recommendations Code
 
-This Jupyter Notebook, titled "Recommendations Code.ipynb", demonstrates the implementation of a recommendation system. The notebook provides a comprehensive guide, covering data preparation, model building, evaluation, and generating recommendations.
+This Jupyter Notebook, "Recommendations Code.ipynb", demonstrates the implementation of a recommendation system. The notebook provides a comprehensive guide, covering data preparation, model building, evaluation, and generating recommendations.
 
 ## Table of Contents
 
